@@ -99,7 +99,6 @@ As you consider possible data visualizations, consider the following questions, 
 Once you have examined your two visualizations from a **Data Feminism** viewpoint, you need to select **one** of them as primary; the other visualization will be secondary. Now, you are ready to start coding (see next section).
 
 ### 3 Coding: Your Technical Requirements
-
 Your objective is to create a report that presents your research and analysis. You will write your report using Markdown, which is a computer language for formatting text.
 
 As you code with Markdown tags, please seek to create a professional visual appearance.
